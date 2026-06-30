@@ -1,0 +1,109 @@
+{
+  "@@locale": "en",
+  "appTitle": "Wedding Diary",
+  "@appTitle": {
+    "description": "Application title"
+  },
+  "welcome": "Welcome to Wedding Diary",
+  "welcomeSubtitle": "Your Complete Indian Wedding Operating System",
+  "getStarted": "Get Started",
+  "createWedding": "Create Your Wedding",
+  "brideName": "Bride Name",
+  "groomName": "Groom Name",
+  "weddingDate": "Wedding Date",
+  "location": "Location",
+  "weddingType": "Wedding Type",
+  "budget": "Budget",
+  "numberOfGuests": "Number of Guests",
+  "religion": "Religion",
+  "tradition": "Tradition",
+  "currency": "Currency",
+  "next": "Next",
+  "back": "Back",
+  "done": "Done",
+  "skip": "Skip",
+  "home": "Home",
+  "planner": "Planner",
+  "guests": "Guests",
+  "profile": "Profile",
+  "daysLeft": "{count} Days Left",
+  "@daysLeft": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "pendingTasks": "{count} Pending",
+  "@pendingTasks": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "todaysTasks": "Today's Tasks",
+  "upcomingCeremony": "Upcoming Ceremony",
+  "latestExpense": "Latest Expense",
+  "quickAdd": "Quick Add",
+  "ceremonies": "Ceremonies",
+  "brideSide": "Side 1",
+  "groomSide": "Side 2",
+  "brideSideWomen": "Women · Side 1",
+  "brideSideMen": "Men · Side 1",
+  "groomSideWomen": "Women · Side 2",
+  "groomSideMen": "Men · Side 2",
+  "guestSideFriends": "Friends",
+  "guestSideOffice": "Office",
+  "guestSideVip": "VIP",
+  "guestSide": "Guest Side",
+  "foodPreference": "Food Preference",
+  "jainFood": "Jain",
+  "allGuests": "All",
+  "men": "Men",
+  "women": "Women",
+  "addCeremony": "Add Ceremony",
+  "settings": "Settings",
+  "darkMode": "Dark Mode",
+  "language": "Language",
+  "backup": "Backup & Restore",
+  "payments": "Payments",
+  "remaining": "Remaining",
+  "estimated": "Estimated",
+  "actual": "Actual",
+  "paid": "Paid",
+  "addExpense": "Add Expense",
+  "addGuest": "Add Guest",
+  "invitationSent": "Invitation Sent",
+  "rsvp": "RSVP",
+  "coming": "Coming",
+  "notComing": "Not Coming",
+  "veg": "Veg",
+  "nonVeg": "Non Veg",
+  "timeline": "Timeline",
+  "checklist": "Checklist",
+  "notes": "Notes",
+  "venue": "Venue",
+  "save": "Save",
+  "cancel": "Cancel",
+  "delete": "Delete",
+  "edit": "Edit",
+  "reorder": "Reorder",
+  "customCeremony": "Custom Ceremony",
+  "poweredByTechackode": "A product by Techackode",
+  "aboutApp": "About",
+  "aboutAppDescription": "{productName} v{version}\n{brandLine}\n100% offline — no backend, data stays on your device",
+  "@aboutAppDescription": {
+    "placeholders": {
+      "productName": {
+        "type": "String"
+      },
+      "version": {
+        "type": "String"
+      },
+      "brandLine": {
+        "type": "String"
+      }
+    }
+  }
+}
